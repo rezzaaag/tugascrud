@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96145665483",
+    "project_id": "tugaskuliah-be662",
+    "storage_bucket": "tugaskuliah-be662.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96145665483:android:f61a29d8ceaf24a1605a4e",
+        "android_client_info": {
+          "package_name": "com.tugaskuliah.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96145665483-o66t6c8urpgvln3vt12d40pdul8b4g2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_eylhR-FVcGLrqSsi0L0G2MvR0bJs6jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96145665483-o66t6c8urpgvln3vt12d40pdul8b4g2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
